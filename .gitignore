@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+model/*.pkl
+**pycache**/
+*.py[cod]
+*$py.class
+env/
+ENV/
+*.log
+*.tmp
+*.temp
